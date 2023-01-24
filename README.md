@@ -1,3 +1,7 @@
+Please read the following blog post for more information about these files:
+https://analytix.nl/post/exploring-question-answering-from-tabular-data-with-gpt-3-and-tapas/
+
+
 Getting started:
 
 1. Copy .env.example to .env
